@@ -1,0 +1,30 @@
+.calc {
+    background-color:darkslategrey;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color:darkgray;
+    width: 450px;
+    display:grid;
+    justify-content: center;
+}
+.title {
+    font-size: 50px;
+    padding: 0px;
+    margin:0px;
+    text-align: center; 
+}
+.b {
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    border-radius: 15px;
+    margin: 3px;
+}
+.t {
+    font-size: 29px;
+    text-align: right;
+}
+.operator {
+    background-color:dimgray;
+}
